@@ -76,7 +76,7 @@ class BoxLink():
         """
         m = mass
         dx = length = l
-        dy = width = l
+        dy = width = w
         dz = height = h
         """
         self.name = name
